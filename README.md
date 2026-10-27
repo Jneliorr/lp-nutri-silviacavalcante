@@ -37,7 +37,7 @@ O mapa é carregado sob demanda. Os vídeos abrem a publicação original. O sit
 - [Guia Saúde Folha BV](https://www.guiasaude.folhabv.com.br/post/nutricionistas-nutricionista-funcional-dr-silvia-cavalcante): apresentação da profissional, Espaço Sinutri, WhatsApp, e-mail e endereço.
 - [Sesc RR, Rede Sesc de Vantagens de abril/2026, página 4](https://www.sescrr.com.br/wp-content/uploads/2026/04/REDE-SESC-DE-VANTAGEM.pdf): consulta nutricional, telefone e endereço.
 
-Fotos e publicações locais vieram dos links da profissional fornecidos pelo usuário. A foto do hero é um enquadramento CSS da imagem de divulgação do protocolo; não foi gerado um retrato da profissional. A galeria identifica as publicações originais. Não se afirma que a ambientação das peças publicitárias representa o consultório real.
+Fotos e publicações locais vieram dos links da profissional fornecidos pelo usuário. A seção “01 · Muito prazer, Silvia” usa o retrato individual de blazer branco enviado diretamente pelo usuário, salvo sem alterações em `public/images/silvia-retrato-consultorio.png` (640 × 640). A foto do hero é um enquadramento CSS da imagem de divulgação do protocolo; não foi gerado um retrato da profissional. A galeria identifica as publicações originais. Não se afirma que a ambientação das peças publicitárias representa o consultório real.
 
 ## Logo
 

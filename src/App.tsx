@@ -406,9 +406,9 @@ export default function App() {
           <div className="container about-grid">
             <div className="about-visual" data-reveal>
               <img
-                src="/images/silvia-conversa.jpg"
-                alt="Silvia Cavalcante em conversa sobre seu trabalho com nutrição"
-                width="360"
+                src="/images/silvia-retrato-consultorio.png"
+                alt="Silvia Cavalcante de blazer branco, em retrato individual no consultório"
+                width="640"
                 height="640"
                 loading="lazy"
               />
@@ -417,12 +417,12 @@ export default function App() {
                 <span>Um olhar para você.</span>
               </div>
               <a
-                href="https://www.instagram.com/reel/DePhRO0vYQJ/"
+                href={business.instagram}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="portrait-source"
               >
-                Assista à conversa <ArrowUpRight size={16} aria-hidden="true" />
+                Acompanhe no Instagram <ArrowUpRight size={16} aria-hidden="true" />
               </a>
             </div>
             <div className="about-copy" data-reveal>
